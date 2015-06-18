@@ -9,3 +9,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Do not upload APK. Thank You.
 
 Library used for reader = com.joanzapata.pdfview:android-pdfview:1.0.3@aar
+
+<img src="https://github.com/Mr-Smithy-x/PDF-Reader-For-NGU---S7S/blob/master/Screenshot_2015-06-18-01-51-55.png" />
