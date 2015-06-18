@@ -1,0 +1,11 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mbreader.mrsmyx.com.mbreader.PDFActivity">
+   <include layout="@layout/toolbar" android:id="@+id/toolbar"/>
+    <com.joanzapata.pdfview.PDFView
+        android:layout_below="@+id/toolbar"
+        android:id="@+id/pdfview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</RelativeLayout>

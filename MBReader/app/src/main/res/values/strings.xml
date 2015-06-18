@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MBReader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Exit</string>
+    <string name="title_activity_pdf">PDFActivity</string>
+    <string name="url">json_link_here</string>
+</resources>
